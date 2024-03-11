@@ -1,0 +1,8 @@
+[submodule "toohak-be"]
+	path = toohak-be
+	url = https://github.com/yesh0907/Toohak-BE
+[submodule "https://github.com/yesh0907/Toohak-BE.git"]
+	url = toohak-be
+[submodule "toohak-fe"]
+	path = toohak-fe
+	url = https://github.com/yesh0907/Toohak-FE.git
