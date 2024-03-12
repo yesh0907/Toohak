@@ -1,8 +1,7 @@
 ## Product Backlog
-- user set nickname when waiting for quiz to start
-- add live player feedback (emotes appear on main screen)
-- adding images in the questions
-- user authentication and login
-- add music to game
-- admin able to skip to next question
-- add live player feedback (emotes appear on main screen)
+
+- As a player, I want to be able to set my nickname while waiting for a quiz to start.
+- As a teacher, I want to be able to add images to the questions I create.
+- As a user, I want to be able to create my own account and log in for future use.
+- As a user, I want to be able to enjoy nice synchronized music while a quiz is playing.
+- As a quiz host, I want to be able to skip to the next question manually.
